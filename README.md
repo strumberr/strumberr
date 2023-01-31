@@ -1,8 +1,5 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
-</style>
 
-<h1 align="center" style="font-weight: 600; font-family: 'Chakra Petch', sans-serif;">Hello 🤝, I'm Storm</h1>
+<h1 align="center" style="font-weight: 600;">Hello 🤝, I'm Storm</h1>
 <h3 align="center">I am a Full-Stack Developer with pouring passion for Web Developement</h3>
 </br>
 
@@ -13,23 +10,7 @@
 
 </p>
 
-<style>
-    @media (prefers-color-scheme: dark) {
-    .border_box {
-        border: 2px solid white;
-        padding: 20px;
-        margin-bottom: 20px;
-        border-radius: 6px;
-        padding-top: 30px;
-    }
 
-    @media (prefers-color-scheme: light) {
-    .border_box {
-        border: 2px solid black;
-    }
-}
-}
-</style>
 
 
 
