@@ -3,7 +3,7 @@
 <h3 align="center">I am a Full-Stack Developer with pouring passion for Web Developement</h3>
 </br>
 
-<div align="center">- 🔭 I’m currently working on <b>A social media platform for the videogame Rust</b></div>
+<div align="center">- 🔭 I’m currently working on <b>A social media platform for the videogame Rust</b> and <b> a videogame cheat for Overwatch</b></div>
 <div style="margin-top: 10px;"></div>
 
 <div align="center">- 🌱 I’m currently learning <b>Javascript</b></div>
