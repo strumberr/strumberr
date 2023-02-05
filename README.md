@@ -31,9 +31,8 @@
     
 </div>
 
-![img](https://komarev.com/ghpvc/?username=strumberr)
 
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
+
+<p align="center">
+  <img width="460" height="300" src="(https://komarev.com/ghpvc/?username=strumberr)">
+</p>
