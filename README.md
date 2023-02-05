@@ -31,6 +31,9 @@
     
 </div>
 
-<div align="center"></div>![img](https://komarev.com/ghpvc/?username=strumberr)
+![img](https://komarev.com/ghpvc/?username=strumberr)
 
-
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
