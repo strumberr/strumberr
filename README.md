@@ -29,3 +29,7 @@
 <div align="center">
     <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strumberr&show_icons=true&locale=en" alt="strumberr" /></div>
 </div>
+
+<div align="center">
+    ![](https://komarev.com/ghpvc/?username=strumberr)
+</div>
