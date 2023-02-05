@@ -30,5 +30,5 @@
     <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strumberr&show_icons=true&locale=en" alt="strumberr" /></div>
 </div>
 
-![](https://komarev.com/ghpvc/?username=strumberr)
+[![](https://komarev.com/ghpvc/?username=strumberr)](https://camo.githubusercontent.com/02e5bdd73cff5b1ec3024174bb6df6109b600b855f7bf9bba8559762d2a233f1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d737472756d62657272)
 
