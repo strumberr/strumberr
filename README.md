@@ -32,6 +32,6 @@
 </div>
 
 
-<p align="center">
-  <img width="460" height="300" src="![img](https://komarev.com/ghpvc/?username=strumberr)">
-</p>
+<div align="center">
+  <div src="![img](https://komarev.com/ghpvc/?username=strumberr)">
+</div>
