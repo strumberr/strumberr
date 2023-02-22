@@ -6,7 +6,7 @@
 <div align="center">- 🔭 I’m currently working on <b>A social media platform for the videogame Rust</b> and <b> a videogame cheat for Overwatch</b></div>
 <div style="margin-top: 10px;"></div>
 </br>
-<div align="center">- 🌱 I’m currently learning <b>Javascript</b></div>
+<div align="center">- 🌱 I’m currently learning <b>Javascript</b> and <b>React</b></div>
 
 </p>
 
