@@ -1,3 +1,4 @@
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/strumberr/strumberr/29e8518e25ba8afe6df704598c1bf3355a801efb/Well%2C%20hello%2C%20fabulous%20human!.png" alt="git" width="100%" height="auto"/>
 
 <h1 align="center" style="font-weight: 600;">Hello 🤝, I'm Storm</h1>
 <h3 align="center">I am a Full-Stack Developer with pouring passion for Web Developement</h3>
