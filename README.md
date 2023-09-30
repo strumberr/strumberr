@@ -5,7 +5,7 @@
 <h3 align="center">I am a Full-Stack Developer, UI designer, and a musician with pouring passion for Web Developement</h3>
 </br>
 
-<div align="center">- 🔭 I’m currently working on <b>Blackjack SUI</b> and <b> MusicMatch</b></div>
+
 <div style="margin-top: 10px;"></div>
 </br>
 <div align="center">- 🌱 I’m currently learning <b>Javascript</b> and <b>React</b></div>
