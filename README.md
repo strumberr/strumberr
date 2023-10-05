@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-weight: 600;"></h1>
 <h2 align="center" style="font-weight: 600;">I'm Storm</h1>
-<h3 align="center">I am a Full-Stack Developer, UI designer, and a musician with pouring passion for Web Developement</h3>
+<h3 align="center">I am a Full-Stack Developer, UI designer, a musician, and a CAD 3D modeling teacher with pouring passion for Web Developement</h3>
 </br>
 
 
