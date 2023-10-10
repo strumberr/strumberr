@@ -1,6 +1,6 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/strumberr/strumberr/29e8518e25ba8afe6df704598c1bf3355a801efb/Well%2C%20hello%2C%20fabulous%20human!.png" alt="git" width="100%" height="auto"/>
 
-# 💫 Hello there beautiful human!
+#
 I am a <br>- Full-Stack Developer<br>- UI designer<br>- A musician<br>- And a CAD 3D modeling and printing teacher<br>with pouring passion for Web and App development
 
 
