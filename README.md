@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello there beautiful human!
 I am a <br>- Full-Stack Developer<br>- UI designer<br>- A musician<br>- And a CAD 3D modeling and printing teacher<br>with pouring passion for Web and App development
 
 
